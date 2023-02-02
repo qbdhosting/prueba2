@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+   background-image: url("../imgs/Menu.png"); 
+   background-size: cover;
+   margin:auto;
+   width:960px;
+   height: 800px;
+}
+
+div#menu{
+}
